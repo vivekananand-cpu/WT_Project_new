@@ -1,0 +1,26 @@
+.adminpContainer{
+    margin-top: 50px;
+    width: 50%;
+    margin-left:300px;
+  
+   
+}
+
+.ubutton{
+    display:flex;
+    justify-content:space-evenly;
+    margin-bottom: 10px;
+}
+
+.pInputContainer{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    height:300px;
+}
+
+.profHeading{
+    text-align:center;
+    margin-top:10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,60 @@
+
+.eyeIcon{
+    height: 30px;
+    width: 50px;
+   
+}
+.welAdmin{
+    
+    margin-bottom: 70px;
+    padding-left: 10px;
+}
+.greetContainerCQ{
+  
+    margin-top:20px;
+    padding-top: 10px;
+}
+
+.buttonsIcons{
+
+
+   margin-bottom: 10px;
+   margin-top:100px;
+
+   height: 300px;
+   display:flex;
+   flex-direction:row;
+   justify-content:space-around;
+   padding-top:60px;
+   margin-bottom: 106px;
+   margin-left: 50px;
+   margin-right: 50px;
+
+
+ 
+}
+.userIconContainer{
+    display:flex;
+    flex-direction:row;
+    text-align: center;
+    text-align: center;
+    justify-content:space-evenly;
+    
+   
+    
+}
+
+.userIcon{
+    height: 30px;
+    width: 50px;
+}
+.actualUserDiv{
+    display: flex;
+    flex-direction:row;
+   
+
+}
+
+.paraColor{
+    
+}

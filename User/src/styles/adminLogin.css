@@ -1,0 +1,28 @@
+.formContainer{
+    width: 300px;
+    height: 350px;
+    
+    
+}
+
+.adminContainer{
+    width:50%;
+    height:440px;
+    margin-top: 100px;
+    display: flex;
+    justify-content:space-around;
+    border-radius:5px;
+   
+}
+
+.adminButtons{
+    height: 100px;
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+}
+.acontainer{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+}

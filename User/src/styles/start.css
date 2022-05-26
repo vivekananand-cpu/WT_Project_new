@@ -1,0 +1,20 @@
+.loginButtons{
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    justify-content:space-evenly;
+    height:350px;
+}
+
+.startText{
+    margin-top:10px;
+    padding-top:100px;
+
+}
+
+.greetContainer{
+    padding-top:50px;
+    height:300px;
+    color:grey;
+}
+

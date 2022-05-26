@@ -1,0 +1,18 @@
+.textContainer{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+.fMainContainer{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
+
+.copyRight{
+    text-align: center;
+    margin-top:20px;
+}

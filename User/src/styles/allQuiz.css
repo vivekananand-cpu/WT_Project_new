@@ -1,0 +1,63 @@
+.tableContainer{
+   
+ 
+    margin-top:30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+
+.tableText{
+    padding-top: 6px ;
+}
+
+.delIconofCq{
+    padding-top:3px;
+}
+
+.mainDivofAllQuizes{
+    display: flex;
+    flex-direction: row;
+    margin-left: 170px;
+
+    margin-top: 50px;
+    justify-content: space-evenly;
+  
+}
+
+.aqHeading{
+    text-align: center;
+}
+
+.aqData{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    border:1px solid rgb(24, 97, 14);
+    border-radius: 4px;
+    padding-bottom:5px;
+    padding-top:5px;
+    margin-bottom:5px;
+    
+}
+
+.lefDiv{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    margin-right: 10px;
+}
+
+.rightDiv{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    margin-left:10px;
+}
+
+.acqbutton{
+    text-decoration: none;
+}

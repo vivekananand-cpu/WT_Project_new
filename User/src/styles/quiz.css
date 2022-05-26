@@ -1,0 +1,22 @@
+.userQuizContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.quizHeading{
+    color:#808080;
+    padding-top:10px;
+}
+
+.qdesc{
+    padding-top:10px;
+    color:grey;
+
+    
+}
+.qStartButton{
+    margin-top:10px;
+   
+}
